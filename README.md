@@ -17,11 +17,15 @@ HTML5
 
 CSS3
 
+JavaScript
+
 <h2>🎯 Funcionalidades</h2>
 
 ✅ Seções sobre planos
 
 ✅ Animações suaves para melhor experiência do usuário
+
+✅ Ao contratar um plano o usuario recebe uma menssagem de confirmação
 
 <h3>📦 Como clonar e usar o projeto</h3>
 # Clone o repositório
